@@ -85,7 +85,7 @@ msgid "Search"
 msgstr ""
 
 #. Theme Name of the plugin/theme
-msgid "Sage Starter Theme"
+msgid "Alexis Papadopoulos Theme"
 msgstr ""
 
 #. Theme URI of the plugin/theme
@@ -94,7 +94,7 @@ msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
-"Sage is a WordPress starter theme. <a href=\"https://github.com/roots/sage"
+"Based on Sage (a WordPress starter theme). <a href=\"https://github.com/roots/sage"
 "\">Contribute on GitHub</a>"
 msgstr ""
 

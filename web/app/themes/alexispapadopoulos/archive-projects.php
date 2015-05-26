@@ -1,4 +1,3 @@
-<h2>[ALL PROJECTS]</h2>
 <?php if (!have_posts()) : ?>
   <div class="alert alert-warning">
     <?php _e('Sorry, no results were found.', 'sage'); ?>

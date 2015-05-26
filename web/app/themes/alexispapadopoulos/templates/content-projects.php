@@ -1,6 +1,8 @@
 <article <?php post_class('project'); ?>>
   <header>
-    <h1 class="entry-title">[PROJECT]<?php the_title(); ?></h1>
+    <h1 class="entry-title">
+      <a href='<?php the_permalink(); ?>'><?php the_title(); ?></a>
+    </h1>
   </header>
   <div class="showcase">
     <?php echo do_shortcode('[gallery columns="2" size="medium"]'); ?>

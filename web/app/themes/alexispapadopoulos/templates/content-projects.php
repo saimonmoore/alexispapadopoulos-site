@@ -1,3 +1,5 @@
+<?php wp_reset_postdata();  ?>
+
 <article <?php post_class('project'); ?>>
   <header>
     <h1 class="entry-title">

@@ -1,5 +1,6 @@
 <?php wp_reset_postdata();  ?>
 
+single projects
 <article <?php post_class('project'); ?>>
   <header>
     <h1 class="entry-title">
@@ -7,7 +8,7 @@
     </h1>
   </header>
   <div class="showcase">
-    <?php echo do_shortcode('[gallery columns="2" size="medium"]'); ?>
+    <?php echo do_shortcode('[gallery columns="1" size="medium"]'); ?>
   </div>
   <div class="entry-content">
     <?php the_content(); ?>

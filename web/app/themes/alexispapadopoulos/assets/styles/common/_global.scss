@@ -1,1 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto&subset=latin,greek);
 
+body {
+  background-color: #EEFDF1;
+  font-family: 'Roboto' !important;
+  font-style: 'normal';
+  font-weight: 400;
+  font-size: 14px;
+}
+
+a {
+  color: #00A660;
+}
+
+// float gallery right
+.showcase {
+  display: inline-block;
+  float: right;
+}

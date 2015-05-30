@@ -22,6 +22,9 @@
     },
     "modernizr.js": {
       "bower": ["modernizr"]
+    },
+    "images": {
+      "files": ["images/**/*"]
     }
   },
   "config": {

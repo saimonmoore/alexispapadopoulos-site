@@ -12,8 +12,39 @@ a {
   color: #00A660;
 }
 
+a :hover {
+  color: #00A660;
+}
+
 // float gallery right
 .showcase {
   display: inline-block;
   float: right;
+}
+
+.menu-item {
+  float: left;
+  margin-left: 100px;
+}
+
+.logo {
+  max-width: 25px;
+  float: left;
+}
+
+.logo .img {
+  background: transparent url('../images/logo.png') no-repeat;
+  background-size: cover;
+  display: inline-block;
+  height: 120px;
+  width: 160px;
+}
+
+.logo a {
+  text-transform: uppercase;
+}
+
+nav {
+  margin-left: 125px;
+  margin-top: 115px;
 }

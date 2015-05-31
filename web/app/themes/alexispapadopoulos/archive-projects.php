@@ -1,3 +1,4 @@
+<div class='featured_image'></div>
 <?php if (!have_posts()) : ?>
   <div class="alert alert-warning">
     <?php _e('Sorry, no results were found.', 'sage'); ?>
